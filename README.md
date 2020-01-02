@@ -1,2 +1,2 @@
 # fortran
- FORTRAN: FORmula TRANslation
+ FORmula TRANslation (FORTRAN)
